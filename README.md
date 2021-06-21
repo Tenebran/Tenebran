@@ -15,7 +15,7 @@
 ![Flux](https://img.shields.io/badge/-Flux-090909?style=for-the-badge&logo=Flux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![GIT] (https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![GIT](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=nodejs)
 ![API](<https://img.shields.io/badge/-REST API-090909?style=for-the-badge>)
 
