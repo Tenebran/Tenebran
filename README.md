@@ -6,7 +6,7 @@
 
 ## 💼 [Portfolio](https://tenebran.github.io/resume/)
 
-<!-- ## 📋 [CV](https://github.com/viktoriabakun/viktoriabakun/blob/main/Viktoryia_Bakun_CV.pdf) -->
+## 📋 [CV](https://github.com/Tenebran/Tenebran/blob/main/Sergiy_Garkusha.pdf)
 
 ### Main Skills
 
