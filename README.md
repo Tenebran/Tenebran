@@ -4,7 +4,7 @@
 
 ## I'm keen on solving katas on 👩‍💻 [codewars](https://www.codewars.com/users/Tenebran) and watching IT-conferences.
 
-## 💼 [Portfolio](https://tenebran.github.io/resume/)
+## 💼 [Portfolio](https://tenebran.github.io/MyPortfolio/)
 
 ## 📋 [CV](https://github.com/Tenebran/Tenebran/blob/main/Sergiy_Garkusha.pdf)
 
