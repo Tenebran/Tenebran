@@ -6,7 +6,7 @@
 
 ## 💼 [Portfolio](https://tenebran.github.io/MyPortfolio/)
 
-## 📋 [CV](https://github.com/Tenebran/Tenebran/blob/main/Sergiy_Garkusha.pdf)
+## 📋 [CV](https://github.com/Tenebran/Tenebran/blob/main/Sergiy_Garkusha_CV.pdf)
 
 ### Main Skills
 
