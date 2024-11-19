@@ -15,7 +15,6 @@
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node.js)
 
 #### UI Frameworks & Libraries
 
