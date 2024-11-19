@@ -1,12 +1,14 @@
 # Hi, my name is **Sergej Garkusha**!
 
-## I'm a frontend developer from Germany, Frankenthal. I have over 3 years of professional experience in IT, specializing in creating Landing Pages, SPA, and scalable front-end solutions.
+## I'm a frontend developer from Germany, Frankenthal. I have over 3 years of professional experience in IT, specializing in creating Landing Pages, SPA, scalable front-end solutions, and internal tools.
 
-## I'm passionate about solving katas on 👩‍💻 [Codewars](https://www.codewars.com/users/Tenebran) and exploring new technologies through IT conferences and personal projects.
+## I'm passionate about solving katas on 👩‍💻 [Codewars](https://www.codewars.com/users/Tenebran), exploring new technologies like **React Native** and **Electron**, and working on personal projects to enhance my skills.
 
 ## 💼 [Portfolio](https://tenebran.github.io/MyPortfolio/)
 
 ## 📋 [CV](https://github.com/Tenebran/Tenebran/blob/main/Sergej_Garkusha_CV.pdf)
+
+---
 
 ### Main Skills
 
@@ -14,7 +16,7 @@
 
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=Redux)
+![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
@@ -27,13 +29,12 @@
 #### Tools & Platforms
 
 ![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook)
-![Unit Tests](https://img.shields.io/badge/-Unit%20Tests-090909?style=for-the-badge)
-![Snapshot Tests](https://img.shields.io/badge/-Snapshot%20Tests-090909?style=for-the-badge)
-![Lokalise](https://img.shields.io/badge/-Lokalise-090909?style=for-the-badge)
+![Keycloak](https://img.shields.io/badge/-Keycloak-090909?style=for-the-badge&logo=keycloak)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=gitlab)
+![Lokalise](https://img.shields.io/badge/-Lokalise-090909?style=for-the-badge)
 ![Retool](https://img.shields.io/badge/-Retool-090909?style=for-the-badge)
 ![Directus](https://img.shields.io/badge/-Directus-090909?style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 
 #### Other Skills
 
@@ -47,12 +48,19 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=sass)
 
+---
+
 ### Recent Projects
 
-- **Dynamic Email Templates**: Developed modular email templates compatible with major mail clients, focusing on reusability and localization.
+- **Dynamic Email Templates**: Developed modular and responsive email templates compatible with major mail clients, focusing on reusability and localization.
+- **Vue.js Development**: Created scalable components and integrated Vuex for efficient state management.
+- **GitLab CI/CD Pipelines**: Automated build and testing processes for front-end projects.
+- **Directus Integration**: Configured Directus as a CMS for managing application data.
 - **Retool Dashboards**: Built internal tools and dashboards for data visualization and workflow automation using Retool.
 - **Storybook Integration**: Configured and maintained Storybook for component testing and documentation.
-- **GitLab CI/CD Pipelines**: Set up and optimized CI/CD pipelines for front-end projects.
+- **Keycloak Customization**: Modified and enhanced user interfaces in Keycloak for authentication and authorization purposes.
+
+---
 
 ### Contact Me
 
