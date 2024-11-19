@@ -6,6 +6,8 @@
 
 ## 💼 [Portfolio](https://tenebran.github.io/MyPortfolio/)
 
+## 📋 [CV](https://github.com/Tenebran/Tenebran/blob/main/Sergej_Garkusha_CV.pdf)
+
 ### Main Skills
 
 #### Core Technologies
