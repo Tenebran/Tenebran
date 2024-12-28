@@ -1,4 +1,4 @@
-# Hi, my name is **Sergiy Garkusha**!
+# Hi, my name is **Sergej Garkusha**!
 
 ## I'm a frontend developer from Germany, Frankenthal. I have experience in creating Landing Pages and SPA.
 
@@ -6,7 +6,7 @@
 
 ## 💼 [Portfolio](https://tenebran.github.io/MyPortfolio/)
 
-<!-- ## 📋 [CV](https://github.com/Tenebran/Tenebran/blob/main/Sergiy_Garkusha_CV.pdf) -->
+## 📋 [CV](https://github.com/Tenebran/Tenebran/blob/main/Sergiy_Garkusha_CV.pdf)
 
 ### Main Skills
 
