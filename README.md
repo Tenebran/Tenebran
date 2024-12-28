@@ -11,21 +11,30 @@
 ### Main Skills
 
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Flux](https://img.shields.io/badge/-Flux-090909?style=for-the-badge&logo=Flux)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![GIT](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
-![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=nodejs)
-![API](<https://img.shields.io/badge/-REST API-090909?style=for-the-badge>)
-
-# ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3) ![SASS/SCSS](https://img.shields.io/badge/-Sass/scss-090909?style=for-the-badge&logo=sass) ![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm) ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp) ![Material UI](<https://img.shields.io/badge/-Material UI-090909?style=for-the-badge>) ![CSS Modules](<https://img.shields.io/badge/-CSS Modules-090909?style=for-the-badge>) ![Styled Components](<https://img.shields.io/badge/-Styled Components-090909?style=for-the-badge>)
-
-![STORYBOOK](https://img.shields.io/badge/-StoryBook-090909?style=for-the-badge)
-![UNIT-TESTS](<https://img.shields.io/badge/-Unit Tests-090909?style=for-the-badge>)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![SCSS/SASS](https://img.shields.io/badge/-Sass/scss-090909?style=for-the-badge&logo=sass)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![Redux Toolkit](https://img.shields.io/badge/-Redux Toolkit-090909?style=for-the-badge&logo=redux)
+![Pinia](https://img.shields.io/badge/-Pinia-090909?style=for-the-badge&logo=pinia)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind CSS-090909?style=for-the-badge&logo=tailwind-css)
+![REST API](https://img.shields.io/badge/-REST API-090909?style=for-the-badge&logo=rest-api)
+![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=storybook)
+![Vuetify](https://img.shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=vuetify)
+![i18next](https://img.shields.io/badge/-i18next-090909?style=for-the-badge&logo=i18next)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![Material-UI](https://img.shields.io/badge/-Material UI-090909?style=for-the-badge&logo=mui)
+![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp)
+![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
+![Ant Design](https://img.shields.io/badge/-Ant Design-090909?style=for-the-badge&logo=ant-design)
+![Keycloak](https://img.shields.io/badge/-Keycloak-090909?style=for-the-badge&logo=keycloak)
+![Retool](https://img.shields.io/badge/-Retool-090909?style=for-the-badge&logo=retool)
 
 ### ✉️ Mail me: tenebrann@googlemail.com
 
-### 🌐 [Telegram:](https://t.me/sergiygarkusha) @sergiygarkusha
+### 🌐 [Telegram:](https://t.me/sergejgarkusha) @sergejgarkusha
 
-### 🌐 [LinkedIn: ](https://www.linkedin.com/in/sgarkush/) Sergiy Garkusha
+### 🌐 [LinkedIn: ](https://www.linkedin.com/in/sgarkush/) Sergej Garkusha
