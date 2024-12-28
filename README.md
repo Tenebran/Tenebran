@@ -33,9 +33,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-090909?style=for-the-badge&logo=mui)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=vuetify)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-090909?style=for-the-badge)
-![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-090909?style=for-the-badge)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-090909?style=for-the-badge)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-090909?style=for-the-badge&logo=antDesign)
+![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-090909?style=for-the-badge&logo=cssModules)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-090909?style=for-the-badge&logo=styledComponents)
 
 #### Localization
 
