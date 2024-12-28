@@ -26,14 +26,14 @@
 
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=redux)
-![Pinia](https://img.shields.io/badge/-Pinia-090909?style=for-the-badge&logo=pinia)
+![Pinia](https://img.shields.io/badge/-Pinia-090909?style=for-the-badge) <img src="https://raw.githubusercontent.com/Tenebran/project-assets/c189020548d397ee70848d01d8920681c96eb4b9/image/skills/Pinialogo.svg" alt="Pinia" width="20"/>
 
 #### UI Frameworks & Libraries
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-090909?style=for-the-badge&logo=mui)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=vuetify)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-090909?style=for-the-badge)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-090909?style=for-the-badge&logo=antDesign)
 ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-090909?style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-090909?style=for-the-badge)
 
