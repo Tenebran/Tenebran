@@ -27,7 +27,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=redux)
 ![Pinia](https://img.shields.io/badge/-Pinia-090909?style=for-the-badge&logo=pinia)
-[![Pinia](https://forthebadge.com/images/featured/https://raw.githubusercontent.com/Tenebran/project-assets/c189020548d397ee70848d01d8920681c96eb4b9/image/skills/AntDesingIcon.svg)](https://forthebadge.com)
 
 #### UI Frameworks & Libraries
 
@@ -43,7 +42,6 @@
 ![i18nVue](https://img.shields.io/badge/-i18nVue-090909?style=for-the-badge&logo=i18next)
 ![i18next](https://img.shields.io/badge/-i18next-090909?style=for-the-badge&logo=i18next)
 ![Lokalise](https://img.shields.io/badge/-Lokalise-090909?style=for-the-badge)
-[![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
 
 #### Tools & Platforms
 
