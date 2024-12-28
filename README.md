@@ -21,32 +21,43 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SCSS/SASS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=sass)
+
+#### State Management
+
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=redux)
 ![Pinia](https://img.shields.io/badge/-Pinia-090909?style=for-the-badge&logo=pinia)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css)
-![REST API](https://img.shields.io/badge/-REST%20API-090909?style=for-the-badge&logo=rest-api)
 
 #### UI Frameworks & Libraries
 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-090909?style=for-the-badge&logo=mui)
+![Vuetify](https://img.shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=vuetify)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-090909?style=for-the-badge)
 ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-090909?style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-090909?style=for-the-badge)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-090909?style=for-the-badge)
-![Vuetify](https://img.shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=vuetify)
+
+#### Localization
+
+![i18nVue](https://img.shields.io/badge/-i18nVue-090909?style=for-the-badge&logo=i18nVue)
+![i18next](https://img.shields.io/badge/-i18next-090909?style=for-the-badge&logo=i18next)
+![Lokalise](https://img.shields.io/badge/-Lokalise-090909?style=for-the-badge)
 
 #### Tools & Platforms
 
+![REST API](https://img.shields.io/badge/-REST%20API-090909?style=for-the-badge&logo=rest-api)
 ![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook)
 ![Keycloak](https://img.shields.io/badge/-Keycloak-090909?style=for-the-badge&logo=keycloak)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=gitlab)
-![Lokalise](https://img.shields.io/badge/-Lokalise-090909?style=for-the-badge)
 ![Retool](https://img.shields.io/badge/-Retool-090909?style=for-the-badge)
 ![Directus](https://img.shields.io/badge/-Directus-090909?style=for-the-badge)
+
+#### Development Tools
+
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp)
 ![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 
 ---
 
