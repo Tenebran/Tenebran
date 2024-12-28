@@ -26,7 +26,11 @@
 
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=redux)
-![Pinia](https://custom-icon-badges.demolab.com/badge/Pinia-46B2E0?logo=pinia&logoColor=white)
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="20" role="img" aria-label="Pinia">
+<rect rx="3" width="120" height="20" fill="#000"/>
+<text x="10" y="14" fill="#fff" font-family="Arial, sans-serif" font-size="12">Pinia</text>
+<image x="90" y="2" width="16" height="16" href="https://raw.githubusercontent.com/Tenebran/project-assets/c189020548d397ee70848d01d8920681c96eb4b9/image/skills/Pinialogo.svg"/>
+</svg>
 
 #### UI Frameworks & Libraries
 
