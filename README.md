@@ -26,7 +26,7 @@
 
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=redux)
-![Pinia](https://img.shields.io/badge/-Pinia-090909?style=for-the-badge) <img src="https://raw.githubusercontent.com/Tenebran/project-assets/c189020548d397ee70848d01d8920681c96eb4b9/image/skills/Pinialogo.svg" alt="Pinia" width="20"/>
+![Pinia](https://custom-icon-badges.demolab.com/badge/Pinia-46B2E0?logo=pinia&logoColor=white)
 
 #### UI Frameworks & Libraries
 
