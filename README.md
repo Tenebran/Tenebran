@@ -26,26 +26,24 @@
 
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=redux)
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="20" role="img" aria-label="Pinia">
-<rect rx="3" width="120" height="20" fill="#000"/>
-<text x="10" y="14" fill="#fff" font-family="Arial, sans-serif" font-size="12">Pinia</text>
-<image x="90" y="2" width="16" height="16" href="https://raw.githubusercontent.com/Tenebran/project-assets/c189020548d397ee70848d01d8920681c96eb4b9/image/skills/Pinialogo.svg"/>
-</svg>
+![Pinia](https://img.shields.io/badge/-Pinia-090909?style=for-the-badge&logo=pinia)
+[![Pinia](https://forthebadge.com/images/featured/https://raw.githubusercontent.com/Tenebran/project-assets/c189020548d397ee70848d01d8920681c96eb4b9/image/skills/AntDesingIcon.svg)](https://forthebadge.com)
 
 #### UI Frameworks & Libraries
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-090909?style=for-the-badge&logo=mui)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=vuetify)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-090909?style=for-the-badge&logo=antDesign)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-090909?style=for-the-badge)
 ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-090909?style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-090909?style=for-the-badge)
 
 #### Localization
 
-![i18nVue](https://img.shields.io/badge/-i18nVue-090909?style=for-the-badge&logo=i18nVue)
+![i18nVue](https://img.shields.io/badge/-i18nVue-090909?style=for-the-badge&logo=i18next)
 ![i18next](https://img.shields.io/badge/-i18next-090909?style=for-the-badge&logo=i18next)
 ![Lokalise](https://img.shields.io/badge/-Lokalise-090909?style=for-the-badge)
+[![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
 
 #### Tools & Platforms
 
