@@ -50,8 +50,8 @@
 ![Keycloak](https://img.shields.io/badge/-Keycloak-090909?style=for-the-badge&logo=keycloak)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=gitlab)
-![Retool](https://img.shields.io/badge/-Retool-090909?style=for-the-badge)
-![Directus](https://img.shields.io/badge/-Directus-090909?style=for-the-badge)
+![Retool](https://img.shields.io/badge/-Retool-090909?style=for-the-badge&logo=retool)
+![Directus](https://img.shields.io/badge/-Directus-090909?style=for-the-badge&logo=directus)
 
 #### Development Tools
 
